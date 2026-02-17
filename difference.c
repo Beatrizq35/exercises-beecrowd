@@ -2,10 +2,10 @@
 
 int diferenca (int num1, int num2, int num3, int num4) {
 
-    int dif;
+    int diff;
 
-    dif = (num1 * num2) - (num3 * num4);
-    return dif;
+    diff = (num1 * num2) - (num3 * num4);
+    return diff;
 }
 
 int main () {
