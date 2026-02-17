@@ -3,6 +3,6 @@ num2 = int(input())
 num3 = int(input())
 num4 = int(input())
 
-dif = (num1 * num2) - (num3 * num4)
+diff = (num1 * num2) - (num3 * num4)
 
-print(f"DIFERENCA = {dif}")
+print(f"DIFERENCA = {diff}")
